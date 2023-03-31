@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-AgoraShareSrceen/Pods-AgoraShareSrceen-frameworks.sh
+${PODS_ROOT}/../AgoraRtcSdk/libs/AgoraDav1d.framework
+${PODS_ROOT}/../AgoraRtcSdk/libs/Agorafdkaac.framework
+${PODS_ROOT}/../AgoraRtcSdk/libs/Agoraffmpeg.framework
+${PODS_ROOT}/../AgoraRtcSdk/libs/AgoraReplayKitExtension.framework
+${PODS_ROOT}/../AgoraRtcSdk/libs/AgoraRtcKit.framework
+${PODS_ROOT}/../AgoraRtcSdk/libs/AgoraSoundTouch.framework

@@ -1,0 +1,16 @@
+PODS:
+  - AgoraRtcSdk (1.0)
+
+DEPENDENCIES:
+  - AgoraRtcSdk (from `AgoraRtcSdk`)
+
+EXTERNAL SOURCES:
+  AgoraRtcSdk:
+    :path: AgoraRtcSdk
+
+SPEC CHECKSUMS:
+  AgoraRtcSdk: 17ab6da56306c11ee5792819fafb9db16498d2ec
+
+PODFILE CHECKSUM: 63a7f247bedbe3c2fbd7267d6af167c9ecd191fd
+
+COCOAPODS: 1.10.1
