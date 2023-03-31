@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # IOS_ScreenShare
 4.x
-=======
 # AgoraShareSrceen
 #### 将sdk framework 拖入到AgoraRtcSdk/libs 中，pod install 即可（包含AgoraReplayKitExtension.framework）
 #### MainViewController.mm 中填入appid 和 测试频道名channelname
@@ -11,4 +9,3 @@
 * 系统生成的SampleHandler.h继承AgoraReplayKitHandler，删除SampleHandler.m中所有系统自动实现的方法
 * 主App中通过captureVideo 和captureAudio来控制屏幕共享是否采集视频和音频
 * rtcEngineKit startScreenCapture 和 stopScreenCapture 即可
->>>>>>> 8dd4e1a (commit code)
